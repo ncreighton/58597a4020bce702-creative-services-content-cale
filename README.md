@@ -1,2 +1,28 @@
-# 58597a4020bce702-creative-services-content-cale
-A comprehensive content calendar and publishing workflow designed specifically for the creative services industry.
+# Creative Services Content Calendar and Publishing Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe4gz12D6Ak3lmeM4cZe1M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe4gz12D6Ak3lmeM4cZe1M)
+
